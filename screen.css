@@ -18,3 +18,7 @@ h1 {
   font-size: 22px;
   line-height: 26.4px;
 }
+
+em {
+  font-style: italic;
+}
